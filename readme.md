@@ -1,15 +1,15 @@
-** Ejercicio 2
+## Ejercicio 2
 
 Programas End Device y Coordinador de forma que se adquiera información sobre la temperatura corporal y se envíe de forma 
 inalámbrica al Coordinador. La información biomédica puede ser enviada en forma de string o cadena de caracteres
 
-** Ejercicio 3
+## Ejercicio 3
 
 Se desea monitorizar simultáneamente temperatura y pulsioximetría con un periodo de adquisición de 3 segundos.
 Crea los programas necesarios para el End Device y Coordinador. La información biomédica puede ser enviada en forma de
 string o cadena de caracteres, y debe incluir una referencia temporal relativa para conocer el instante de adquisición
 
-** Ejercicio 4
+## Ejercicio 4
 
 En cualquier transmisión de información es habitual utilizar algún protocolo de
 comunicación, bien propietario, bien estandarizado. En este caso, se desea enviar
@@ -24,7 +24,7 @@ recepción de la información de acuerdo al protocolo indicado. El Coordinador
 debe ser capaz de separar e identificar el valor de cada campo del
 mensaje y mostrar en pantalla la información relevante.
 
-** Ejercicio 5
+## Ejercicio 5
 
 Las especificaciones del cliente para la plataforma son abiertas, es decir, el
 alumnado deberá tomar decisiones basadas en sus capacidades y en la
